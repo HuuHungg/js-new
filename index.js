@@ -13,3 +13,18 @@ let state = {
 }
 
 let {name , course,} = state
+
+let course = [
+  {
+    name: 'Javascript bassic',
+    course: 2000,
+    id: 1
+  
+  },
+  {
+       name: 'PHP',
+      course: 1000,
+      id: 2 
+  }
+  
+]
